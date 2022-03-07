@@ -1,5 +1,5 @@
 # Elroy's Notes
 
-# This is an H1 header (largest)
+## Summary
 
-###### This is an H6 header (smallest)
+This repository contains all of the notes taken by [Elroy](https://github.com/letsfighting) for the [Lighthouse Labs](https://www.lighthouselabs.ca/) Web Development Bootcamp.
